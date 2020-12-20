@@ -1,6 +1,6 @@
-# Welcome Sergio's website!
+# **Welcome Sergio's website!**
 
-I created this website as a hobbie, in order to practise and gain some experience in programming. 
+## Why a website?
 
 ## About me
 
@@ -14,7 +14,7 @@ I created this website as a hobbie, in order to practise and gain some experienc
 
 ## Music
 
-## Why to travel?
+## Exploring the world
 
 ## Enviroment
 
