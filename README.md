@@ -1,20 +1,14 @@
 #              **Welcome Sergio's website!**           
 
 <details>
-  <summary>General</summary>
+  <summary>General</summary> 
   
-  
-  1.About me
-  
-  2.Personal life
-  
-  Career as a scientist
-  
-  The life in a different country
-  
-  Languages
-  
-  A rainbow life :rainbow:
+### About me
+### Personal life
+### Career as a scientist
+### The life in a different country
+### Languages
+### A rainbow life :rainbow:
   
   </details>
 
