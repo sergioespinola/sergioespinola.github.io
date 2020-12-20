@@ -3,9 +3,10 @@
 <details>
   <summary>General</summary>
   
-  About me
   
-  Personal life
+  1.About me
+  
+  2.Personal life
   
   Career as a scientist
   
@@ -27,6 +28,11 @@ Tips for short (< 1 week) and long travels
 </details>
 
 <details>
+    <summary>Music</summary>
+
+</details>
+
+</details>
   <summary>Recommended websites</summary>
 
 </details>
