@@ -1,4 +1,4 @@
-# **Welcome Sergio's website!**
+# Welcome Sergio's website!
 
 I created this website as a hobbie, in order to practise and gain some experience in programming. 
 
@@ -8,11 +8,15 @@ I created this website as a hobbie, in order to practise and gain some experienc
 
 ## The life in a different country
 
+## A rainbow life ;)
+
 ## Languages
+
+## Music
 
 ## Why to travel?
 
-## Taking care of the enviroment
+## Enviroment
 
 ## Recommended websites
 
