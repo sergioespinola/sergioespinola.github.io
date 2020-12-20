@@ -1,4 +1,4 @@
-#              **Welcome to the Sergio's website!**           
+#              **Welcome to Sergio's website!**           
 
 <details>
   <summary>General</summary> 
