@@ -30,8 +30,5 @@
   
 </details>
 
-## Enviroment
-
-## Recommended websites
 
 ## etc..
