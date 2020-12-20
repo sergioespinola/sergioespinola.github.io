@@ -1,4 +1,4 @@
-#              **Welcome Sergio's website!**           
+#              **Welcome to the Sergio's website!**           
 
 <details>
   <summary>General</summary> 
@@ -15,9 +15,8 @@
 <details>
   <summary>Exploring the world</summary>
 
-Countries i visited
-
-Tips for short (< 1 week) and long travels
+### Countries i visited
+### Tips for short (< 1 week) and long travels
 
 </details>
 
