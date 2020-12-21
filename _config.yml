@@ -12,15 +12,9 @@ footer:
     - name: Email
       value: s.espinola@gmail.com
       link: mailto:s.espinola@gmail.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/sergio-martin-espinola/
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://github.com/sergioespinola
 
