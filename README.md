@@ -1,7 +1,7 @@
 #              **Welcome to Sergio's website!**           
 
 <details>
-  <summary>General</summary> 
+  <summary>General</summary><p>
   
 ### About me
 ### CV
