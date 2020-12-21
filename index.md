@@ -6,5 +6,5 @@ profile_picture:
 ---
 
 <p>
-  Welcome to mysite!
+  Welcome to my website!
 </p>
