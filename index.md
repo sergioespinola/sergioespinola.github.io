@@ -1,7 +1,3 @@
-
-<p>
-  Welcome to my website!
-</p>
 ---
 layout: home
 profile_picture:
