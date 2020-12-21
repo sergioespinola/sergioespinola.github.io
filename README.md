@@ -11,9 +11,6 @@
 <details>
   <summary>Exploring the world</summary>
 
-### Countries I visited
-### Ideas for travels
-
 </details>
 
 <details>
