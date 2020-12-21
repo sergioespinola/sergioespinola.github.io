@@ -1,5 +1,5 @@
 remote_theme: eliottvincent/bay
-title: null 
+title: hola
 header:
   pages:
     - name: Home
@@ -17,4 +17,3 @@ footer:
       link: http://linkedin.com/in/sergio-martin-espinola/
     - name: GitHub
       link: http://github.com/sergioespinola
-
