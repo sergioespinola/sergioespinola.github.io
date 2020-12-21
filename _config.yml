@@ -1,6 +1,6 @@
 remote_theme: eliottvincent/bay
-title: hola
 header:
+title: hola
   pages:
     - name: Home
       slug: /     # <-- index.md
