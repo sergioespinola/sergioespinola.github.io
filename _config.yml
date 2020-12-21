@@ -1,5 +1,5 @@
 remote_theme: eliottvincent/bay
-title-heading: false
+title: null 
 header:
   pages:
     - name: Home
