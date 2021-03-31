@@ -1,7 +1,7 @@
 ---
-layout: scientific
+layout: scientific CV
 title: Scientific CV
-slug: /scientific
+slug: /scientific CV
 ---
 
 This is an example!
