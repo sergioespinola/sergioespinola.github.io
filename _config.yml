@@ -4,7 +4,7 @@ header:
     - name: Home
       slug: /     # <-- index.md
     - name: About me  # <-- about.md
-    - name: Scientific CV # <-- cv.md
+    - name: CV # <-- cv.md
     - name: Trips made  # <-- tripsmade.md
     - name: Trips to make  # <-- tripsmake.md
     - name: Music # <-- music.md
