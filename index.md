@@ -5,3 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
+Hello!
+
+Im Sergio, from Argentina living in France.
