@@ -9,14 +9,5 @@ header:
     - name: Trips to make  # <-- Trips.md
     - name: Music # <-- Music.md
     - name: Others # <-- Others.md
-footer:
-  show_powered_by: false
-  contact:
-    - name: Email
-      value: s.espinola@gmail.com
-      link: mailto:s.espinola@gmail.com
-  follow:
-    - name: LinkedIn
-      link: http://linkedin.com/in/sergio-martin-espinola/
-    - name: GitHub
-      link: http://github.com/sergioespinola
+    - name: Contact
+
