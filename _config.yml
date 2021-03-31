@@ -3,11 +3,10 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    - name: About me  # <-- CV.md
-    - name: Scientific CV # <-- Science.md
-    - name: Trips made  # <-- Trips.md
-    - name: Trips to make  # <-- Trips.md
-    - name: Music # <-- Music.md
-    - name: Others # <-- Others.md
-    - name: Contact
-
+    - name: About me  # <-- about.md
+    - name: Scientific CV # <-- scientific.md
+    - name: Trips made  # <-- tripsmade.md
+    - name: Trips to make  # <-- tripsmake.md
+    - name: Music # <-- music.md
+    - name: Others # <-- others.md
+    - name: Contact # <-- contact.md
