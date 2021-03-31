@@ -1,4 +1,3 @@
-```
 ---
 layout: home
 profile_picture:
@@ -6,11 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
 Hello! My name is Sergio, from Posadas, Argentina living in Montpellier, France. 
-</p>
+In this website you will find information about my career as researcher, and other stuff or personal interest (travels, music, videos, etc.).
 
-<p>
-  In this website you will find information about my career as researcher, and other stuff or personal interest (travels, music, videos, etc.).
-</p>
-```
